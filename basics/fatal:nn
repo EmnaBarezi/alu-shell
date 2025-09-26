@@ -1,0 +1,5 @@
+root@711adf4b1da0:/alu-shell/basics# nano 4-listmorefiles
+root@711adf4b1da0:/alu-shell/basics# chmod + 4-listmorefiles
+root@711adf4b1da0:/alu-shell/basics# ./4-listmorefiles
+bash: ./4-listmorefiles: Permission denied
+root@711adf4b1da0:/alu-shell/basics# n
