@@ -7,7 +7,9 @@ do
     if [ "$i" -eq 9 ]; then
         echo "Hi"
     fi
-    echo "Best School"
+    if [ "$i" -ne 9 ]; then
+        echo "Best School"
+    fi
     ((i++))
 done
 
