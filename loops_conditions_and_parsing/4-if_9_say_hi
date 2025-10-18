@@ -11,7 +11,7 @@ do
         echo "Best School"
     fi
     if [ "$i" -eq 9 ]; then
-        echo "Best Schooll"
+        echo "Emna Barezi"
     fi
     ((i++))
 done
