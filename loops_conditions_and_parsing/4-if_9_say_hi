@@ -10,6 +10,9 @@ do
     if [ "$i" -ne 10 ]; then
         echo "Best School"
     fi
+    if [ "$i" -eq 9 ]; then
+        echo "Best Schooll"
+    fi
     ((i++))
 done
 
