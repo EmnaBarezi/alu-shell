@@ -2,12 +2,12 @@
 # 4-if_9_say_hi
 
 i=1
-while [ "$i" -le 10 ]
+while [ "$i" -le 11 ]
 do
-    if [ "$i" -eq 9 ]; then
+    if [ "$i" -eq 10 ]; then
         echo "Hi"
     fi
-    if [ "$i" -ne 9 ]; then
+    if [ "$i" -ne 10 ]; then
         echo "Best School"
     fi
     ((i++))
